@@ -1,0 +1,45 @@
+Details:
+
+Index 0 (Character):
+00 - Guy
+01 - Red
+02 - Green
+03 - Colin
+04 - Yang
+05 - Meat Boy
+06 - Yellow
+07 - Jungle Warrior
+08 - Purple
+09 - Van Helsing
+10 - Cyan
+11 - Lime
+12 - Eskimo
+13 - Round Girl
+14 - Ninja
+15 - Viking
+16 - Round Boy
+17 - Cyclops
+18 - Robot
+19 - Golden Monk
+
+Index 1 (Level):
+01 - 1-1
+02 - 1-2
+03 - 1-3
+04 - 1-4
+05 - 2-1
+06 - 2-2
+07 - 2-3
+08 - 2-4
+09 - 3-1
+10 - 3-2
+11 - 3-3
+12 - 3-4
+13 - 4-1
+14 - 4-2
+15 - 4-3
+16 - 4-4
+17 - 5-1
+18 - 5-2
+19 - 5-3
+20 - 5-4

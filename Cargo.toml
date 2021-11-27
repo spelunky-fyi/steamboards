@@ -1,0 +1,12 @@
+[package]
+name = "steamboards"
+version = "0.1.0"
+authors = ["garebear <mail@spelunky.fyi>"]
+edition = "2018"
+
+
+[dependencies]
+tokio = {version="1", features = ["full"]}
+anyhow = "1"
+thiserror = "1"
+steamworks = "0.8.0"

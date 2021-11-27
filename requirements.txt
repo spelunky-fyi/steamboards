@@ -1,0 +1,4 @@
+gevent==21.8.0
+steam[client]==1.2.0
+steamctl==0.9.0
+python-dotenv==0.19.2

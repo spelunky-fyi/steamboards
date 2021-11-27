@@ -1,0 +1,14 @@
+[Unit]
+Description=Steamboards
+After=docker.service
+Requires=docker.service
+
+[Service]
+TimeoutStartSec=0
+Restart=always
+ExecStartPre=-/usr/bin/docker rm %n
+ExecStart=/usr/bin/docker run --rm --name %n -p 127.0.0.1:16000:16000 steamboards:docker
+ExecStop=/usr/bin/docker rm %n
+
+[Install]
+WantedBy=default.target
